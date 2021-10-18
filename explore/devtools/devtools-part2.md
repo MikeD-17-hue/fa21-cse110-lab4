@@ -1,0 +1,2 @@
+1. the input num1 and num2 are treated as strings instead of numbers, so the answer will be the concantenation of num1 and num2 together.
+2. change line 11 to let result = Number(num1) + Number(num2), it will to the cast.
